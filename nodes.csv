@@ -1,5 +1,5 @@
 # set of nodes
-N1,N2,N3,N4,N5
+N1,N2,N3,N4,N5,N6
 
 # set of link with cost 
 N1,N2,1
